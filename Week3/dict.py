@@ -11,8 +11,3 @@ if sin_dict[k]:
   x=sin_dict[k][0]*np.sin(2*np.pi*sin_dict[k][1]*t)
   plt.plot(t,x)
   plt.show()
-  
-"""in mobile phone
-pydroid3 for python and
-anoc octave for octave
-"""
